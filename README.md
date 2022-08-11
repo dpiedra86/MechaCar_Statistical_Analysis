@@ -7,3 +7,5 @@ The interface is super useful while having a display for testing formulas, a ter
 
 For this specific challenge we were asked to make calculations and anlyse the results for a prototype product developed by car company AutosRU's. Their painpoint comes into the production lines and want to understand better whats troubling the manufacturing team progress. 
 
+## Deliverable 1: Linear Regression to Predict MPG
+
